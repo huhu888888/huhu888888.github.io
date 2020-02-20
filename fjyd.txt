@@ -50,7 +50,10 @@ CCTV4K超高清,http://39.134.185.69/PLTV/88888888/224/3221226758/index.m3u8
 凤凰资讯官方,http://liveali.ifeng.com/live/FHZX.m3u8
 凤凰中文HD1,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰资讯HD1,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-
+国家地理频道,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
+discovery,http://iptv.pdsu.edu.cn/hls/discovery.m3u8
+CHANNEL[V],http://iptv.pdsu.edu.cn/hls/channelv.m3u8
+全纪实,http://39.134.52.202/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226014/1.m3u8
 
 
 DOX轮播,#genre#
