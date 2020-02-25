@@ -92,8 +92,8 @@ G+TV7,http://39.135.16.151:6610/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts
 
 
 
-湖南频道,#genre#
-快乐垂钓,http://112.50.243.12/PLTV/88888888/224/3221226132/1.m3u8
+湖南频道,#genre
+快乐垂钓,http://112.50.243.12/PLTV/88888888/224/3221226940/1.m3u8
 茶频道,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226137/1.m3u8
 先锋乒羽,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226131/1.m3u8
 娄底公共频道,http://mms.ldntv.cn:1935/live/gonggong/playlist.m3u8
