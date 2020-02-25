@@ -152,7 +152,7 @@ http://39.135.16.151:6610/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOX频道",G+TV7
 http://39.135.16.151:6610/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="湖南",快乐垂钓
-http://112.50.243.12/PLTV/88888888/224/3221226132/1.m3u8
+http://112.50.243.12/PLTV/88888888/224/3221226940/1.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="湖南",茶频道
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226137/1.m3u8
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg" group-title="湖南",先锋乒羽
