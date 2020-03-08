@@ -5,17 +5,17 @@ CCTV-3综艺,http://223.110.241.195:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
 CCTV-4国际,http://223.110.241.195:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
 CCTV-5体育,http://223.110.241.195:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
 CCTV-6高清,http://223.110.241.195:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
-CCTV-7军事农业,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV-7军事农业,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/1.m3u8
 CCTV-8高清,http://223.110.241.195:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
-CCTV-9纪录,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV-10科教,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-CCTV-11戏曲,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-CCTV-12社会与法,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV-9纪录,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/1.m3u8
+CCTV-10科教,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-11戏曲,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
+CCTV-12社会与法,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-13新闻,http://111.0.27.24/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV-14少儿,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-CCTV-15音乐,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV-14少儿,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/1.m3u8
+CCTV-15音乐,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5+体育,http://223.110.241.195:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
-CCTV-17农村农业,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CCTV-17农村农业,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8
 CCTV4K超高清,http://39.134.185.69/PLTV/88888888/224/3221226758/index.m3u8
 
 
@@ -34,19 +34,21 @@ CCTV4K超高清,http://39.134.185.69/PLTV/88888888/224/3221226758/index.m3u8
 天津卫视,http://223.110.241.195:6610/gitv/live1/G_TIANJIN-CQ/G_TIANJIN-CQ/
 辽宁卫视,http://223.110.241.195:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ/
 湖北卫视,http://223.110.241.195:6610/gitv/live1/G_HUBEI-CQ/G_HUBEI-CQ/
-江西卫视,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
-河南卫视,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
-河北卫视,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
-贵州卫视,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
-东南卫视,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
-广西卫视,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
-四川卫视,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
-重庆卫视,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
-海南卫视,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+江西卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225868/1.m3u8
+河北卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226885/1.m3u8
+河南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225842/1.m3u8
+厦门卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+四川卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225835/1.m3u8
+贵州卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225838/1.m3u8
+云南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225853/1.m3u8
+广西卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225836/1.m3u8
+重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225831/1.m3u8
+东南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225833/1.m3u8
+海南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225855/1.m3u8
 
 
 港台新闻,#genre#
-凤凰卫视中文台,http://112.50.243.12/PLTV/88888888/224/3221225900/index.m3u8  
+凤凰卫视中文台,http://112.50.243.12/PLTV/88888888/224/3221225900/index.m3u8 
 凤凰卫视资讯台,http://112.50.243.12/PLTV/88888888/224/3221225901/index.m3u8
 凤凰资讯HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 凤凰中文HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
@@ -54,7 +56,7 @@ CCTV4K超高清,http://39.134.185.69/PLTV/88888888/224/3221226758/index.m3u8
 凤凰资讯官方,http://liveali.ifeng.com/live/FHZX.m3u8
 凤凰中文HD1,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰资讯HD1,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-凤凰中文高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8      (北京移动)
+凤凰中文高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8    
 凤凰资讯高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 
 纪实频道,#genre#
@@ -63,20 +65,27 @@ discovery,http://iptv.pdsu.edu.cn/hls/discovery.m3u8
 CHANNEL[V],http://iptv.pdsu.edu.cn/hls/channelv.m3u8
 全纪实,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226014/index.m3u8
 求索记录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
-上海纪实HD,http://112.50.243.12/PLTV/88888888/224/3221225946/index.m3u8    
-北京纪实HD,http://112.50.243.12/PLTV/88888888/224/3221225944/index.m3u8   
-上海纪实,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/1.m3u8     
-上海纪实,http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8    
+纪实人文HD,http://112.50.243.12/PLTV/88888888/224/3221225946/index.m3u8  
+纪实人文HD,http://112.50.243.12/PLTV/88888888/224/3221226958/1.m3u8     
+纪实人文,http://39.135.33.12/PLTV/88888888/224/3221226522/index.m3u8      
+纪实人文,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/1.m3u8    
+纪实人文,http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8   
 科普中国,http://39.135.16.151:6610/PLTV/88888888/224/3221226036/1/index.m3u8?fmt=ts2hls
-国家地理,#rtmp://58.200.131.2:1935/livetv/natlgeo
+金鹰纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226737/1.m3u8
+北京冬奥纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
+
+国家地理野生,vjms://58.215.133.185:8500:3502/live/cid=263#vjms://121.14.222.75:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263
+国家地理,vjms://58.215.133.185:8500:3502/live/cid=115#vjms://121.14.222.75:8500:3502/live/cid=115#vjms://23.237.33.155:8500:3502/live/cid=115#rtmp://58.200.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-动物星球,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
+探索亚洲,vjms://58.215.133.185:8500:3502/live/cid=440#vjms://121.14.222.75:8500:3502/live/cid=440#vjms://23.237.33.155:8500:3502/live/cid=440
+探索科学,vjms://58.215.133.185:8500:3502/live/cid=457#vjms://121.14.222.75:8500:3502/live/cid=457#vjms://23.237.33.155:8500:3502/live/cid=457
+动物星球,vjms://58.215.133.185:8500:3502/live/cid=3#vjms://121.14.222.75:8500:3502/live/cid=3#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#vjms://23.237.33.155:8500:3502/live/cid=3
 美食星球,http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
 
 
 
 DOX频道,#genre#
-DOX院线,http://39.135.16.151:6610/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls          
+DOX院线,http://39.135.16.151:6610/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls     
 DOX新知,http://39.135.16.151:6610/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
 DOX怡家,http://39.135.16.151:6610/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
 DOX新艺,http://39.135.16.151:6610/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
@@ -92,10 +101,10 @@ G+TV7,http://39.135.16.151:6610/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts
 
 
 
-湖南频道,#genre
+湖南频道,#genre#
 快乐垂钓,http://112.50.243.12/PLTV/88888888/224/3221226940/1.m3u8
-茶频道,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226137/1.m3u8
-先锋乒羽,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226131/1.m3u8
+茶频道,http://112.50.243.12/PLTV/88888888/224/3221226859/1.m3u8
+先锋乒羽,http://112.50.243.12/PLTV/88888888/224/3221226851/1.m3u8
 娄底公共频道,http://mms.ldntv.cn:1935/live/gonggong/playlist.m3u8
 
 
