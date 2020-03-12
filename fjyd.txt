@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV-1综合,http://223.110.241.195:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/   
+CCTV-1综合,http://223.110.241.195:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/    南京移动
 CCTV-2财经,http://223.110.241.195:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
 CCTV-3综艺,http://223.110.241.195:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
 CCTV-4国际,http://223.110.241.195:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
@@ -11,7 +11,8 @@ CCTV-9纪录,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/1.m3u8
 CCTV-10科教,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-11戏曲,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
 CCTV-12社会与法,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
-CCTV-13新闻,http://111.0.27.24/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-13新闻,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-13新闻1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/1.m3u8
 CCTV-14少儿,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/1.m3u8
 CCTV-15音乐,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5+体育,http://223.110.241.195:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
@@ -48,30 +49,40 @@ CCTV4K超高清,http://39.134.185.69/PLTV/88888888/224/3221226758/index.m3u8
 
 
 港台新闻,#genre#
-凤凰卫视中文台,http://112.50.243.12/PLTV/88888888/224/3221225900/index.m3u8 
-凤凰卫视资讯台,http://112.50.243.12/PLTV/88888888/224/3221225901/index.m3u8
+凤凰卫视中文台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8  （福建移动）失效
+凤凰卫视资讯台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8    （福建移动）失效
 凤凰资讯HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 凤凰中文HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 凤凰中文官方,http://liveali.ifeng.com/live/FHZW.m3u8
 凤凰资讯官方,http://liveali.ifeng.com/live/FHZX.m3u8
 凤凰中文HD1,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰资讯HD1,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-凤凰中文高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8    
+凤凰中文高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8      (北京移动)
 凤凰资讯高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+HBO HD,vjms://58.215.133.184:8500:3502/live/cid=261
+HBO强档,vjms://58.215.133.184:8500:3502/live/cid=238
+HBO温馨,vjms://58.215.133.184:8500:3502/live/cid=181
+
 
 纪实频道,#genre#
-国家地理频道,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
+国家地理HD,vjms://58.215.133.184:8500:3502/live/cid=115
+Discovery Asia,vjms://58.215.133.184:8500:3502/live/cid=440
+Discovery Science,vjms://58.215.133.184:8500:3502/live/cid=457
+动物星球,vjms://58.215.133.184:8500:3502/live/cid=3
+
+国家地理,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
 discovery,http://iptv.pdsu.edu.cn/hls/discovery.m3u8
 CHANNEL[V],http://iptv.pdsu.edu.cn/hls/channelv.m3u8
 全纪实,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226014/index.m3u8
 求索记录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
-纪实人文HD,http://112.50.243.12/PLTV/88888888/224/3221225946/index.m3u8  
-纪实人文HD,http://112.50.243.12/PLTV/88888888/224/3221226958/1.m3u8     
-纪实人文,http://39.135.33.12/PLTV/88888888/224/3221226522/index.m3u8      
-纪实人文,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/1.m3u8    
-纪实人文,http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8   
+纪实人文,http://112.50.243.12/PLTV/88888888/224/3221226958/1.m3u8       福建移动
+纪实人文,http://39.135.33.12/PLTV/88888888/224/3221226522/index.m3u8         广西南宁
+纪实人文,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/1.m3u8     (南京移动)
+纪实人文,http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8       （七台河移动）
 科普中国,http://39.135.16.151:6610/PLTV/88888888/224/3221226036/1/index.m3u8?fmt=ts2hls
-金鹰纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226737/1.m3u8
+金鹰纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226737/1.m3u8   （福建移动）
+金鹰纪实,http://112.50.243.12/PLTV/88888888/224/3221226937/1.m3u8    （福建移动）
+金鹰纪实,http://211.137.115.110:8080/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8  （陕西移动）
 北京冬奥纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
 
 国家地理野生,vjms://58.215.133.185:8500:3502/live/cid=263#vjms://121.14.222.75:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263
@@ -85,7 +96,7 @@ CHANNEL[V],http://iptv.pdsu.edu.cn/hls/channelv.m3u8
 
 
 DOX频道,#genre#
-DOX院线,http://39.135.16.151:6610/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls     
+DOX院线,http://39.135.16.151:6610/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls          （贵州移动）
 DOX新知,http://39.135.16.151:6610/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
 DOX怡家,http://39.135.16.151:6610/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
 DOX新艺,http://39.135.16.151:6610/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
@@ -102,9 +113,9 @@ G+TV7,http://39.135.16.151:6610/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts
 
 
 湖南频道,#genre#
-快乐垂钓,http://112.50.243.12/PLTV/88888888/224/3221226940/1.m3u8
-茶频道,http://112.50.243.12/PLTV/88888888/224/3221226859/1.m3u8
-先锋乒羽,http://112.50.243.12/PLTV/88888888/224/3221226851/1.m3u8
+快乐垂钓,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226940/1.m3u8
+茶频道,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226859/1.m3u8
+先锋乒羽,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226851/1.m3u8
 娄底公共频道,http://mms.ldntv.cn:1935/live/gonggong/playlist.m3u8
 
 
@@ -114,9 +125,7 @@ G+TV7,http://39.135.16.151:6610/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts
 精彩4K,#genre#
 BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-纯享 4K,http://112.50.243.8/PLTV/88888888/224/3221226825/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 bestTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 咪咕4K,http://39.134.52.180/PLTV/88888888/224/3221226162/index.m3u8
 DOX 4K,http://39.135.16.151:6610/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
