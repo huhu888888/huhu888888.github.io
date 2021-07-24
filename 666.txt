@@ -274,14 +274,23 @@ Max极速汽车-高清,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls18
 湖南教育,http://183.215.102.57:8089/180000001001/00000001000000000023000000196697/main.m3u8
 
 记录探索,#genre#
-CHC高清电影,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls260.m3u8
-CHC家庭影院,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls259.m3u8
-CHC动作电影,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls261.m3u8
-家庭剧场,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls75a28.m3u8
-大众影视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls75a27.m3u8
-家庭影院,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls75a29.m3u8
-卡通剧场,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls77a30.m3u8
-爱映画,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls78a46.m3u8
+Channel V音乐台,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+求索一,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+求索二,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+求索三,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+求索四,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+求索科学移动2,http://39.134.182.236/PLTV/88888888/224/3221226608/index.m3u8
+求索记录4K,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
+Channel,rtmp://58.200.131.2:1935/livetv/channelv
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+国家地理频道,rtmp://58.200.131.2:1935/livetv/natlgeo
+全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+
 
 金鹰纪实,http://183.215.102.57:8089/180000001001/00000001000000000016000000007228/main.m3u8
 上海纪实人文 3M1080,http://hdtv.lzu6.edu.cn/hls/docuchina.m3u8
@@ -307,6 +316,14 @@ BTV冬奥纪实-高清,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls69
 全纪实-高清,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls184a639.m3u8
 足球频道-高清,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/zqhd.m3u8
 
+国家地理野生,vjms://58.215.133.185:8500:3502/live/cid=263#vjms://121.14.222.75:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263
+国家地理,vjms://58.215.133.185:8500:3502/live/cid=115#vjms://121.14.222.75:8500:3502/live/cid=115#vjms://23.237.33.155:8500:3502/live/cid=115#rtmp://58.200.131.2:1935/livetv/natlgeo
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+探索亚洲,vjms://58.215.133.185:8500:3502/live/cid=440#vjms://121.14.222.75:8500:3502/live/cid=440#vjms://23.237.33.155:8500:3502/live/cid=440
+探索科学,vjms://58.215.133.185:8500:3502/live/cid=457#vjms://121.14.222.75:8500:3502/live/cid=457#vjms://23.237.33.155:8500:3502/live/cid=457
+动物星球,vjms://58.215.133.185:8500:3502/live/cid=3#vjms://121.14.222.75:8500:3502/live/cid=3#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#vjms://23.237.33.155:8500:3502/live/cid=3
+TLC旅游生活,vjms://58.215.133.185:8500:3502/live/cid=103#vjms://121.14.222.75:8500:3502/live/cid=103#vjms://23.237.33.155:8500:3502/live/cid=103
+亚洲旅游台,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 
 
 4K频道,#genre#
@@ -319,3 +336,12 @@ BTV冬奥纪实-高清,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls69
 北京IPTV淘电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 北京IPTV萌宠TV,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 北京大健康,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
+
+CHC高清电影,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls260.m3u8
+CHC家庭影院,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls259.m3u8
+CHC动作电影,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls261.m3u8
+家庭剧场,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls75a28.m3u8
+大众影视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls75a27.m3u8
+家庭影院,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls75a29.m3u8
+卡通剧场,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls77a30.m3u8
+爱映画,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls78a46.m3u8
